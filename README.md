@@ -1,3 +1,9 @@
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/JSVns08Ctz0/0.jpg)](https://youtu.be/JSVns08Ctz0)
+
+This short demo shows how the tool extracts emails, social links, and generates AI summaries to qualify leads.
+
 # AI Lead Scraper by Fathia Alfajr
 
 A lightweight Streamlit app built to help you:
