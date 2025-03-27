@@ -1,6 +1,6 @@
-# 🧠 AI Lead Scraper by Fathia Alfajr
+# AI Lead Scraper by Fathia Alfajr
 
-A lightweight Streamlit app built in just **5 hours** ⚡️ to help you:
+A lightweight Streamlit app built to help you:
 - Scrape **emails**, **socials**, and **summaries** from websites
 - Customize what to extract using **web scraping or AI prompts**
 - Upload CSVs and export clean results in seconds!
@@ -13,8 +13,8 @@ A lightweight Streamlit app built in just **5 hours** ⚡️ to help you:
 - ✉️ Extracts emails and social links automatically  
 - 🧠 AI-generated summary of each website  
 - 🧩 Add your own custom fields:
-  - **Web scraping** using CSS selectors
-  - **AI assistant** that answers yes/no questions from page content  
+  - **Web scraping** using CSS selectors or a keyword
+  - **AI assistant** that answers the questions with one-two sentences explanation
   - Automatically marks leads as “Qualified” when emails are found
 - 🧹 Intuitive checkbox delete (like Gmail)  
 - 📦 Download results to CSV  
@@ -92,5 +92,5 @@ streamlit run pages/manual_input.py
 
 ## 🤝 Credits
 
-Made with ❤️ by **Fathia Alfajr**  
-Built in just **5 hours** ⏱️ using Python, Streamlit, and Together AI
+Made by **Fathia Alfajr**  
+Built in just **5 hours** ⏱️ using Python, Pandas, Streamlit, BeautifulSoup Web Scraper, and Together.AI API.
